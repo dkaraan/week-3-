@@ -28,7 +28,7 @@
 }
 
 .borderCircle {
-  border-radius: 9999px;
+  border-radius: 10% 30% 90% 0%;
 }
 
 .colorInherit {
@@ -51,4 +51,8 @@
 
 .lightText {
   color: #666;
+}
+
+.shadowy{
+  text-shadow: #001914 1px 0 5px;
 }
